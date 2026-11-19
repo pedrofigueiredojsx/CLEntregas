@@ -1,0 +1,6 @@
+@CLEntrega_HostAddress = http://localhost:5064
+
+GET {{CLEntrega_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

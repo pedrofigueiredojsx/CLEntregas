@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fZuvy4n3Xsw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pedro\\Documents\\projects\\CLEntrega\\CLEntrega.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.14\\microsoft.aspnetcore.openapi.10.0.14.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
